@@ -6,7 +6,8 @@ Skills used: SQL, Tableau, Python
 Tools used: DB Browser for SQLite, Jupyter Notebook, Tableau
 
 Datasets that were given : googleplaystore.csv and googleplaystore_user_reviews.csv
-Cleaned Datasets: google_play_store_cleaned.csv and googleplaystore_user_reviews_cleaned.csv
+
+**Cleaned Datasets** : google_play_store_cleaned.csv and googleplaystore_user_reviews_cleaned.csv
 
 **Analysis.ipynb** contains all the analysis performed using Python and SQL. We also connected datasets to SQLite database named **apps.db**.
 We also did analysis in Tableau.
